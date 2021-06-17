@@ -6,7 +6,7 @@ Programa para traducir palabras del idioma ingles a español.
 
 ### Desarrollo
 ```bash
-pip install ...
+pip install -i https://test.pypi.org/simple/ traductorjjgc
 ```
 
 ### Producción
@@ -31,4 +31,4 @@ pip install traductorjjgc
 
 ### Version 0.1.0
 
--Inicio del proyecto
+- Inicio del proyecto

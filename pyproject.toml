@@ -1,13 +1,13 @@
 [tool.poetry]
 name = "traductorjjgc"
-version = "0.2.0"
+version = "0.2.1"
 description = "Traductor de palabras"
 authors = ["Juan Gahona <gahonajuanjo@gmail.com>"]
 keywords = ["traductor", "translator"]
 readme = "README.md"
 license = "MIT"
-homepage = "https://github.com/JuanPerez/package_name"
-repository = "https://github.com/JuanPerez/package_name"
+homepage = "https://github.com/Scoowy/traductorjjgc"
+repository = "https://github.com/Scoowy/traductorjjgc"
 include = ["LICENSE"]
 
 [tool.poetry.scripts]
